@@ -1,0 +1,72 @@
+app_main.py:32:st.set_page_config(layout="wide", page_title="AtoCatch", initial_sidebar_state="collapsed")
+app_main.py:101:<title>AtoCatch 아토피 분석 결과 보고서</title>
+app_main.py:244:<div class="logo">☻ AtoCatch</div>
+app_main.py:295:본 보고서는 AtoCatch AI 멀티모달 솔루션에 의해 생성되었습니다. © 2026 AtoCatch. All rights reserved.
+app_main.py:478:<div class="card-title">아토피 잡는 AI, AtoCatch<br>우리 아기 피부 안심을 위한 첫걸음</div>
+app_main.py:479:<div class="card-desc">AtoCatch AI가 미세한 피부 변화를 분석하여 <br>아토피 위험을 조기 예측하고 맞춤형 케어를 제안합니다.</div>
+app_main.py:495:st.markdown('<div class="logo-header"><div class="logo-icon">☻</div>AtoCatch 로그인</div>', unsafe_allow_html=True)
+app_main.py:529:<div class="card-desc">AtoCatch 회원가입을 통해 <br>미세한 피부 변화를 체계적으로 관리하세요.</div>
+app_main.py:545:st.markdown('<div class="logo-header"><div class="logo-icon">☻</div>AtoCatch 회원가입</div>', unsafe_allow_html=True)
+app_main.py:862:<span style="background-color: #E6FDF5; color: #1B6554; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; display: inline-block; margin-bottom: 20px; border: 1.2px solid rgba(27, 101, 84, 0.15); letter-spacing: -0.3px;">&#127808; [AI 아토피 조기 예측 솔루션], AtoCatch</span>
+app_main.py:864:아토피일까 걱정된다면<br>AtoCatch AI 스캔으로 <span style="font-size: 3.2rem !important; background: linear-gradient(135deg, #1B6554 0%, #10B981 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 950;"><br>3초 만에 확인</span>
+app_main.py:868:AtoCatch가 아기 피부 변화를 실시간으로 감지하고 맞춤형 케어법을 제안합니다.
+app_main.py:894:<span style="font-size: 0.65rem !important; font-weight: 800; color: #1B6554; background: rgba(27, 101, 84, 0.08); padding: 2px 6px; border-radius: 6px;">AtoCatch AI</span>
+app_main.py:1332:<h2 style='margin: 0; color: #1B6554; font-weight: 850; font-size: 2.1rem;'>💬 AtoCatch AI 챗봇 서비스</h2>
+app_main.py:1338:st.markdown("<h2 style='color: #1B6554; font-weight: 850; font-size: 2.1rem; margin-bottom: 10px;'>💬 AtoCatch AI 챗봇 서비스</h2>", unsafe_allow_html=True)
+app_main.py:1373:<span style='font-size: 0.95rem; font-weight: 800; color: #1B6554; margin-left: 2px;'>AtoCatch AI</span>
+app_main.py:1404:system_prompt = f"""당신은 AtoCatch의 영유아 아토피 예방 전문 AI 상담사입니다.
+app_test.py:32:st.set_page_config(layout="wide", page_title="AtoCatch", initial_sidebar_state="collapsed")
+app_test.py:101:<title>AtoCatch 아토피 분석 결과 보고서</title>
+app_test.py:244:<div class="logo">☻ AtoCatch</div>
+app_test.py:295:본 보고서는 AtoCatch AI 멀티모달 솔루션에 의해 생성되었습니다. © 2026 AtoCatch. All rights reserved.
+app_test.py:479:<div class="card-desc">AtoCatch AI는 아기의 미세한 피부 변화를 정확하게 감지하여 부모님께 매일의 안심을 드립니다.</div>
+app_test.py:495:st.markdown('<div class="logo-header"><div class="logo-icon">☻</div>AtoCatch 로그인</div>', unsafe_allow_html=True)
+app_test.py:529:<div class="card-desc">AtoCatch 회원가입을 통해 <br>미세한 피부 변화를 체계적으로 관리하세요.</div>
+app_test.py:545:st.markdown('<div class="logo-header"><div class="logo-icon">☻</div>AtoCatch 회원가입</div>', unsafe_allow_html=True)
+app_test.py:889:<span style="font-size: 0.65rem !important; font-weight: 800; color: #1B6554; background: rgba(27, 101, 84, 0.08); padding: 2px 6px; border-radius: 6px;">AtoCatch AI</span>
+app_test.py:1327:<h2 style='margin: 0; color: #1B6554; font-weight: 850; font-size: 2.1rem;'>💬 AtoCatch AI 챗봇 서비스</h2>
+app_test.py:1333:st.markdown("<h2 style='color: #1B6554; font-weight: 850; font-size: 2.1rem; margin-bottom: 10px;'>💬 AtoCatch AI 챗봇 서비스</h2>", unsafe_allow_html=True)
+app_test.py:1368:<span style='font-size: 0.95rem; font-weight: 800; color: #1B6554; margin-left: 2px;'>AtoCatch AI</span>
+app_test.py:1399:system_prompt = f"""당신은 AtoCatch의 영유아 아토피 예방 전문 AI 상담사입니다.
+gradcam_module.py:2:gradcam_module.py — AtoCatch Grad-CAM 모듈
+login_page.py:177:st.set_page_config(layout="wide", page_title="AtoCatch Login", initial_sidebar_state="collapsed")
+login_page.py:210:AtoCatch AI는 아기의 미세한 피부 변화를 감지하여 부모님께 안심을 드립니다.
+login_page.py:221:AtoCatch
+login_page.py:223:<div class="right-title">AtoCatch에 오신 것을 환영합니다</div>
+login_page.py:261:<div>© 2024 AtoCatch AI</div>
+signup_page.py:139:st.set_page_config(layout="wide", page_title="AtoCatch Sign Up", initial_sidebar_state="collapsed")
+signup_page.py:167:AtoCatch 회원가입을 통해 아기의 미세한 피부 변화를 체계적으로 관리하고, 전문가 수준의 AI 분석 결과를 받아보세요.
+signup_page.py:176:AtoCatch
+signup_page.py:179:<div class="right-subtitle">AtoCatch의 새로운 가족이 되어주세요</div>
+signup_page.py:210:<div>© 2024 AtoCatch AI</div>
+streamlit_test2.py:587:AtoCatch · 공공데이터(PSKC · AI Hub · DermNet) 기반 영유아 아토피 조기 예측 서비스<br>
+streamlit_test2.py:890:<div><div class="chat-panel-title">AtoCatch AI 상담</div><div class="chat-panel-sub">분석 결과를 바탕으로 궁금한 점을 질문하세요</div></div>
+streamlit_test2.py:902:chat_html += f'<div class="bubble-label">AtoCatch AI</div><div class="bubble-bot">{msg["content"]}</div>'
+streamlit_test2.py:980:system_prompt = f"""당신은 AtoCatch의 영유아 아토피 예방 전문 AI 상담사입니다.
+streamlit_test2.py:1486:<title>AtoCatch 분석 보고서</title>
+streamlit_test2.py:1514:<h1>🏥 AtoCatch 피부 분석 보고서</h1>
+streamlit_test2.py:1541:본 보고서는 AtoCatch AI 분석 결과로, 의학적 진단을 대체하지 않습니다.<br>
+streamlit_test2.py:1543:© AtoCatch · 공공데이터(PSKC · AI Hub) 기반 소아 아토피 위험도 예측 서비스
+streamlit_test2.py:1602:<div style="font-size:1.1rem;font-weight:700;">AtoCatch AI 상담사</div>
+streamlit_test2.py:1667:chat_box += f'<div class="bubble-label" style="margin-top:8px;">AtoCatch AI</div><div class="bubble-bot">{msg["content"]}</div>'
+streamlit_test2.py:1691:system_prompt = f"""당신은 AtoCatch의 영유아 아토피 예방 전문 AI 상담사입니다.
+streamlit_test3.py:593:AtoCatch · 공공데이터(PSKC · AI Hub · DermNet) 기반 영유아 아토피 조기 예측 서비스<br>
+streamlit_test3.py:1024:<div><div class="chat-panel-title">AtoCatch AI 상담</div><div class="chat-panel-sub">분석 결과를 바탕으로 궁금한 점을 질문하세요</div></div>
+streamlit_test3.py:1036:chat_html += f'<div class="bubble-label">AtoCatch AI</div><div class="bubble-bot">{msg["content"]}</div>'
+streamlit_test3.py:1114:system_prompt = f"""당신은 AtoCatch의 영유아 아토피 예방 전문 AI 상담사입니다.
+streamlit_test3.py:1695:<title>AtoCatch 분석 보고서</title>
+streamlit_test3.py:1723:<h1>🏥 AtoCatch 피부 분석 보고서</h1>
+streamlit_test3.py:1750:본 보고서는 AtoCatch AI 분석 결과로, 의학적 진단을 대체하지 않습니다.<br>
+streamlit_test3.py:1752:© AtoCatch · 공공데이터(PSKC · AI Hub) 기반 소아 아토피 위험도 예측 서비스
+streamlit_test3.py:1811:<div style="font-size:1.1rem;font-weight:700;">AtoCatch AI 상담사</div>
+streamlit_test3.py:1876:chat_box += f'<div class="bubble-label" style="margin-top:8px;">AtoCatch AI</div><div class="bubble-bot">{msg["content"]}</div>'
+streamlit_test3.py:1900:system_prompt = f"""당신은 AtoCatch의 영유아 아토피 예방 전문 AI 상담사입니다.
+streamlit_test4.py:430:AtoCatch · 공공데이터기반 영유아 아토피 조기 예측 솔루션<br>
+streamlit_test4.py:753:st.markdown(f'<div class="bubble-label">AtoCatch 임상지침 AI</div><div class="bubble-bot">{msg["content"]}</div>', unsafe_allow_html=True)
+streamlit_test4.py:900:st.markdown('<div class="footer" style="border:none; text-align:left; margin:0; padding:0;">AtoCatch Medical Engine Solution · 오픈데이터 분석 연구 전용 버전<br>본 도구는 임상 연구 참고 인프라로 의학적인 정식 처방, 진단, 조치를 완전 대체할 수 없습니다.</div>', unsafe_allow_html=True)
+test007.py:24:st.set_page_config(layout="wide", page_title="AtoCatch", initial_sidebar_state="collapsed")
+test007.py:244:<div class="card-desc">AtoCatch AI는 아기의 미세한 피부 변화를 정확하게 감지하여 부모님께 매일의 안심을 드립니다.</div>
+test007.py:260:st.markdown('<div class="logo-header"><div class="logo-icon">☻</div>AtoCatch 로그인</div>', unsafe_allow_html=True)
+test007.py:288:<div class="card-desc">AtoCatch 회원가입을 통해 미세한 피부 변화를 체계적으로 관리하세요.</div>
+test007.py:304:st.markdown('<div class="logo-header"><div class="logo-icon">☻</div>AtoCatch 회원가입</div>', unsafe_allow_html=True)
+test007.py:780:if st.button("☻ AtoCatch", key="nav_logo_btn"):

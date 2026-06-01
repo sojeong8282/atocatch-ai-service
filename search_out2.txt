@@ -1,0 +1,2 @@
+streamlit_test4.py:603:<div class="sc-title">유아기 농촌/자연 환경 거주 기간 (만 0~5세 대상)</div>
+test007.py:516:st.image(img, use_container_width=True, caption="스캔 대상 이미지")

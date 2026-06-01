@@ -1,0 +1,2 @@
+app_main.py:922:<span style="font-size: 0.70rem !important; font-weight: 800; color: #1E293B;">👤 환자 정보</span>
+app_test.py:917:<span style="font-size: 0.70rem !important; font-weight: 800; color: #1E293B;">👤 환자 정보</span>

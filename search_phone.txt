@@ -1,0 +1,4 @@
+app_main.py:883:<div class="phone-container" style="width: 290px; height: 470px; border-radius: 38px; border: 10px solid #1E293B; background: #F8FAFC; box-shadow: 0 20px 40px rgba(0,0,0,0.12); position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); margin: 0 auto;">
+app_main.py:963:.phone-container:hover {
+app_test.py:878:<div class="phone-container" style="width: 290px; height: 470px; border-radius: 38px; border: 10px solid #1E293B; background: #F8FAFC; box-shadow: 0 20px 40px rgba(0,0,0,0.12); position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); margin: 0 auto;">
+app_test.py:958:.phone-container:hover {
